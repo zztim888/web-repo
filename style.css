@@ -1,0 +1,55 @@
+
+
+.navbar {
+    font-variant: small-caps;
+    font-size: 25px;   
+    font-weight: 600;
+}
+.nav-link { 
+    margin-left:70px;
+    margin-right:70px;
+}
+ul{
+    width: 100%;
+}
+li{
+    width: 25%;
+}
+img{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-header{
+    font-weight: bold;
+}
+.my-footer{
+    background-color: black;
+    color: grey;
+    bottom: 0px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    width: 100%;
+   
+}
+.about-me p:hover{
+    color: white;    
+}
+.about-me{
+    font-size: 25px;
+    font-style: normal;
+    font-variant: small-caps;
+}
+.fab{
+    color: grey;
+}
+.fab:hover{
+    color: white;
+}
+.copyright{
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
