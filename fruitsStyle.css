@@ -52,6 +52,12 @@ h3{
     padding: 18px;
     margin: 0 10px;  
 }
+.fa-home{
+    color: grey;
+}
+.fa-home:hover{
+    color: white;
+}
 .row{
     display: flex;
     align-items: center;
