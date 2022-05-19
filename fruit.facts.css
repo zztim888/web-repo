@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Lobster", serif;
-    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300; 
 }
+
 .container{
     max-width: 1200px;
     margin: 40px;
@@ -27,12 +28,17 @@ nav{
 img{
     margin-top: 5px;
     width: 500px;
+    border-radius: 10px;    
 }
-.img-ananas{
-    width: 100%;
-   justify-items: center;/* fix this*/
+img:hover{
+    box-shadow: 0 0 2px 1px rgba(197, 222, 230, 0.5);
 }
-
+.image-ananas{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 0%;
+}
 h3{
     text-align: center;
     margin-top: 20px;
