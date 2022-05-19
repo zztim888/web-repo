@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Lobster", serif;
+    
 }
 .category{
     margin-bottom: 40px;
